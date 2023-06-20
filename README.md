@@ -40,5 +40,5 @@ For comparison we have identified that DNSTwist detected 14 domains and Circl de
 *
 *
 *
-* (https://github.com/typosquatter/pypi-squatting "Pypi-Squatting")
+* [Pypi-Squatting](https://github.com/typosquatter/pypi-squatting)
 * https://github.com/typosquatter/pypi-squatting

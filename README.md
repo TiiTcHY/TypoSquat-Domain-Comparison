@@ -34,3 +34,11 @@ For comparison we have identified that DNSTwist detected 14 domains and Circl de
 |          ChangeDotDash           |                                                                                           These typos are created by changing a dot to a dash                                                                                           |  X  |         |        |        |      X       |
 |           Replacement            |                                   These typos are created by replacing each letter of the domain name with letters to the immediate left and right on the keyboard. (QWERTY, AZERTY, QWERTZ, DVORAK)                                    |  X  |         |        |        |      X       |
 |              AddTld              |                                                                 These typos are created by adding a tld before the right tld. Example: google.com becomes google.com.it                                                                 |  X  |         |        |        |              |
+
+## Original Sources
+
+*
+*
+*
+* (https://github.com/typosquatter/pypi-squatting "Pypi-Squatting")
+* https://github.com/typosquatter/pypi-squatting
